@@ -25,8 +25,6 @@ The Loan Default Risk Monitoring System uses machine learning models to predict 
 
 ---
 
-## 🏗️ System Architecture
-```mermaid
 flowchart TD
     A[Historical Loan & Customer Data] --> B[Data Preprocessing]
     B --> C[ML Model Training & Default Prediction]
