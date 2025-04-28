@@ -33,6 +33,7 @@ flowchart TD
     E --> F[Grafana Dashboards (Risk Monitoring)]
 
 #Installation and Setup
+
 1.Clone the Repository
 git clone https://github.com/yourusername/loan-default-risk-monitoring.git
 cd loan-default-risk-monitoring
