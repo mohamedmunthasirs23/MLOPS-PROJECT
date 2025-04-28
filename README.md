@@ -33,7 +33,7 @@ flowchart TD
     E --> F[Grafana Dashboards (Risk Monitoring)]
 
  #Installation and Setup
-1. Clone the Repository
+1.Clone the Repository
 git clone https://github.com/yourusername/loan-default-risk-monitoring.git
 cd loan-default-risk-monitoring
 
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 4.Train and Run the Model
 python model_training.py
 
-5. Configure Grafana
+5.Configure Grafana
 *Set up Grafana and connect it to the MySQL database.
 *Create or import dashboards for visual monitoring.
 
